@@ -27,7 +27,7 @@ git checkout -b Alexandros_Nathan
 ```
 
 ### Step 3 (Link local repo to remote)
-Now that you have created your branch, you must specify where you will be pushing your branch. This is done as follows:
+Now that you have created your branch, you must specify where you will be pushing it:
 
 ```
 git remote add origin git@github.com:MSIA/bigdatacourse.git
