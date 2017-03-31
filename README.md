@@ -12,7 +12,7 @@ git init
 You can add/commit/etc files to your local repository, but **DO NOT** add/commit any directories.  
 
 ### Step 2 (Creating a branch)
-Once you are ready to submit your solution, your must first create a branch on your local repository. To do this, you must have committed at least once to your local repository, so it makes sense to perform this step after you are done with the assignment. If you try to create a branch without first committing, you will get this error: *fatal: You are on a branch yet to be born*.
+Once you are ready to submit your solution, you must first create a branch on your local repository. To do this, you must have committed at least once to your local repository, so it makes sense to perform this step after you are done with the assignment. If you try to create a branch without first committing, you will get this error: *fatal: You are on a branch yet to be born*.
 
 The command to create a branch is:
 
@@ -20,10 +20,10 @@ The command to create a branch is:
 git checkout -b <branch_name>
 ```
 
-The \<branch_name\> has to be your name **exactly as it appears on Canvas**. For example, if I were to create a branch I would do: 
+The \<branch_name\> has to be your name **exactly as it appears on Canvas** with underscores instead of spaces. For example, if I were to create a branch I would do: 
 
 ```
-git checkout -b Alexandros Nathan
+git checkout -b Alexandros_Nathan
 ```
 
 ### Step 3 (Link local repo to remote)
@@ -34,17 +34,13 @@ git remote add origin git@github.com:MSIA/bigdatacourse.git
 ```
 
 ### Step 3 (Push to remote repo)
-Now you are ready to your solutions:
+Now you are ready push your solutions:
 ```
 git push -u origin <branch_name>
 ```
-If this step is completed successfully, you will see the following message: *Branch <\branch_name\> set up to track remote branch ana222 from origin*.
+If this step is completed successfully, you will see the following message: *Branch <\branch_name\> set up to track remote branch <\branch_name\> from origin*.
 
-
-Clone your repository of the homework assignment to this central private repository. Name it as lastname_firstname (for example: doe_john).
-
-For each homework assignment, create an empty git repository. Link it to git@github.com:MSIA/bigdatacourse.git
 
 ### Note:
-If you upload your solutions a long time before the deadline, other students will have access to them. It would be best if you pushed your work to the remote repository just a few hours before the deadline. 
+If you upload your solutions a long time before the deadline, other students will have access to them. It would be best if you pushed your work to the remote repository as close to the deadline as possible. 
 
