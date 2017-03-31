@@ -33,7 +33,7 @@ Now that you have created your branch, you must specify where you will be pushin
 git remote add origin git@github.com:MSIA/bigdatacourse.git
 ```
 
-### Step 3 (Push to remote repo)
+### Step 4 (Push to remote repo)
 Now you are ready push your solutions:
 ```
 git push -u origin <branch_name>
