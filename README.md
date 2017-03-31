@@ -38,7 +38,7 @@ Now you are ready push your solutions:
 ```
 git push -u origin <branch_name>
 ```
-If this step is completed successfully, you will see the following message: *Branch <\branch_name\> set up to track remote branch <\branch_name\> from origin*.
+If this step is completed successfully, you will see the following message: *Branch \<branch_name\> set up to track remote branch \<branch_name\> from origin*.
 
 
 ### Note:
