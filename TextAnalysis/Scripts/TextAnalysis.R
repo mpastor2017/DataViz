@@ -1,3 +1,5 @@
+# Author: marip
+
 library(data.table)
 library(anytime)
 library(tm)
