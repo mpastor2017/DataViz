@@ -113,6 +113,10 @@ metrics_final = fread("metrics_final.csv")
 metrics_final = metrics_final[, name_nb_sent:= NULL]
 
 # Readability score
+metrics$name_ARI = 4.71 * (metrics$length_of_listing_name/
+                                            metrics$nb_words_name) +
+        0.5 * (metrics$nb_words_name/1) -
+        21.43
 metrics_final$summary_ARI = 4.71 * (metrics_final$length_of_summary/
                                          metrics_final$nb_words_summary) +
                                         0.5 * (metrics_final$nb_words_summary/metrics_final$summary_nb_sent) -
