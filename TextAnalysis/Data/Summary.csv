@@ -7,7 +7,6 @@ airport,22,West Town
 also,30,West Town
 amazing,45,West Town
 amenities,25,West Town
-apartment,264,West Town
 appliances,24,West Town
 apt,23,West Town
 area,51,West Town
@@ -29,7 +28,6 @@ bd,13,West Town
 beautiful,71,West Town
 beautifully,11,West Town
 bed,175,West Town
-bedroom,232,West Town
 bedrooms,43,West Town
 beds,25,West Town
 best,53,West Town
@@ -152,7 +150,6 @@ included,19,West Town
 includes,13,West Town
 internet,10,West Town
 jacuzzi,17,West Town
-just,83,West Town
 king,21,West Town
 kitchen,127,West Town
 l,21,West Town
@@ -249,7 +246,6 @@ right,32,West Town
 river,50,West Town
 roof,12,West Town
 rooftop,30,West Town
-room,220,West Town
 rooms,22,West Town
 safe,15,West Town
 screen,10,West Town
@@ -337,13 +333,11 @@ well,17,West Town
 west,82,West Town
 wicker,260,West Town
 wifi,36,West Town
-will,45,West Town
 windows,15,West Town
 within,36,West Town
 wonderful,12,West Town
 access,44,Uptown
 andersonville,34,Uptown
-apartment,83,Uptown
 apt,11,Uptown
 aragon,16,Uptown
 area,11,Uptown
@@ -355,7 +349,6 @@ bathroom,27,Uptown
 beach,32,Uptown
 beautiful,33,Uptown
 bed,44,Uptown
-bedroom,70,Uptown
 bedrooms,12,Uptown
 beds,10,Uptown
 block,24,Uptown
@@ -397,7 +390,6 @@ hardwood,12,Uptown
 heart,13,Uptown
 historic,20,Uptown
 home,30,Uptown
-just,27,Uptown
 kitchen,38,Uptown
 lake,73,Uptown
 lakefront,12,Uptown
@@ -440,7 +432,6 @@ restaurants,46,Uptown
 ride,11,Uptown
 right,14,Uptown
 riviera,11,Uptown
-room,66,Uptown
 shopping,10,Uptown
 shops,15,Uptown
 size,13,Uptown
@@ -464,7 +455,6 @@ walk,45,Uptown
 walking,22,Uptown
 well,11,Uptown
 wifi,15,Uptown
-will,20,Uptown
 within,14,Uptown
 wrigley,37,Uptown
 –,12,Near West Side
@@ -472,7 +462,6 @@ access,43,Near West Side
 across,11,Near West Side
 amazing,19,Near West Side
 amenities,21,Near West Side
-apartment,85,Near West Side
 area,26,Near West Side
 art,11,Near West Side
 attractions,16,Near West Side
@@ -484,7 +473,6 @@ bath,29,Near West Side
 bathroom,28,Near West Side
 beautiful,26,Near West Side
 bed,54,Near West Side
-bedroom,78,Near West Side
 best,25,Near West Side
 block,11,Near West Side
 blocks,39,Near West Side
@@ -532,7 +520,6 @@ home,23,Near West Side
 hottest,15,Near West Side
 house,13,Near West Side
 italy,20,Near West Side
-just,33,Near West Side
 kitchen,30,Near West Side
 large,32,Near West Side
 laundry,10,Near West Side
@@ -578,7 +565,6 @@ restaurants,63,Near West Side
 ride,10,Near West Side
 right,12,Near West Side
 river,29,Near West Side
-room,50,Near West Side
 row,18,Near West Side
 safe,10,Near West Side
 short,13,Near West Side
@@ -617,7 +603,6 @@ walking,29,Near West Side
 well,10,Near West Side
 west,97,Near West Side
 wifi,14,Near West Side
-will,13,Near West Side
 willis,10,Near West Side
 windows,10,Near West Side
 within,11,Near West Side
@@ -629,7 +614,6 @@ air,14,Near North Side
 also,21,Near North Side
 amazing,57,Near North Side
 amenities,47,Near North Side
-apartment,164,Near North Side
 apartments,12,Near North Side
 appliances,20,Near North Side
 apt,13,Near North Side
@@ -650,7 +634,6 @@ beach,78,Near North Side
 beaches,16,Near North Side
 beautiful,51,Near North Side
 bed,90,Near North Side
-bedroom,141,Near North Side
 bedrooms,13,Near North Side
 beds,17,Near North Side
 best,56,Near North Side
@@ -751,7 +734,6 @@ indoor,19,Near North Side
 internet,14,Near North Side
 jacuzzi,10,Near North Side
 john,12,Near North Side
-just,62,Near North Side
 kitchen,66,Near North Side
 lake,126,Near North Side
 lakefront,14,Near North Side
@@ -831,7 +813,6 @@ rise,16,Near North Side
 river,104,Near North Side
 roof,14,Near North Side
 rooftop,43,Near North Side
-room,91,Near North Side
 rush,19,Near North Side
 safe,10,Near North Side
 sauna,10,Near North Side
@@ -890,7 +871,6 @@ welcome,11,Near North Side
 well,21,Near North Side
 wells,12,Near North Side
 wifi,25,Near North Side
-will,49,Near North Side
 windows,36,Near North Side
 within,26,Near North Side
 zoo,15,Near North Side
@@ -902,7 +882,6 @@ air,14,Loop
 also,21,Loop
 amazing,57,Loop
 amenities,47,Loop
-apartment,164,Loop
 apartments,12,Loop
 appliances,20,Loop
 apt,13,Loop
@@ -923,7 +902,6 @@ beach,78,Loop
 beaches,16,Loop
 beautiful,51,Loop
 bed,90,Loop
-bedroom,141,Loop
 bedrooms,13,Loop
 beds,17,Loop
 best,56,Loop
@@ -1024,7 +1002,6 @@ indoor,19,Loop
 internet,14,Loop
 jacuzzi,10,Loop
 john,12,Loop
-just,62,Loop
 kitchen,66,Loop
 lake,126,Loop
 lakefront,14,Loop
@@ -1104,7 +1081,6 @@ rise,16,Loop
 river,104,Loop
 roof,14,Loop
 rooftop,43,Loop
-room,91,Loop
 rush,19,Loop
 safe,10,Loop
 sauna,10,Loop
@@ -1163,7 +1139,6 @@ welcome,11,Loop
 well,21,Loop
 wells,12,Loop
 wifi,25,Loop
-will,49,Loop
 windows,36,Loop
 within,26,Loop
 zoo,15,Loop
@@ -1173,7 +1148,6 @@ airport,16,Logan Square
 also,24,Logan Square
 amazing,21,Logan Square
 amenities,10,Logan Square
-apartment,159,Logan Square
 apt,22,Logan Square
 area,39,Logan Square
 around,10,Logan Square
@@ -1187,7 +1161,6 @@ bath,31,Logan Square
 bathroom,50,Logan Square
 beautiful,43,Logan Square
 bed,74,Logan Square
-bedroom,135,Logan Square
 bedrooms,19,Logan Square
 beds,17,Logan Square
 best,47,Logan Square
@@ -1255,7 +1228,6 @@ home,59,Logan Square
 hot,10,Logan Square
 house,21,Logan Square
 huge,19,Logan Square
-just,56,Logan Square
 kitchen,70,Logan Square
 l,17,Logan Square
 large,41,Logan Square
@@ -1312,7 +1284,6 @@ renovated,12,Logan Square
 restaurants,129,Logan Square
 ride,13,Logan Square
 right,30,Logan Square
-room,127,Logan Square
 second,14,Logan Square
 shared,16,Logan Square
 shopping,24,Logan Square
@@ -1357,7 +1328,6 @@ well,14,Logan Square
 western,21,Logan Square
 wicker,37,Logan Square
 wifi,21,Logan Square
-will,28,Logan Square
 windows,14,Logan Square
 within,27,Logan Square
 work,10,Logan Square
@@ -1369,7 +1339,6 @@ air,22,Lake View
 also,25,Lake View
 amazing,28,Lake View
 amenities,21,Lake View
-apartment,253,Lake View
 appliances,11,Lake View
 apt,19,Lake View
 area,56,Lake View
@@ -1388,7 +1357,6 @@ beach,17,Lake View
 beautiful,58,Lake View
 beautifully,10,Lake View
 bed,123,Lake View
-bedroom,205,Lake View
 bedrooms,18,Lake View
 beds,23,Lake View
 belmont,54,Lake View
@@ -1501,7 +1469,6 @@ huge,12,Lake View
 included,15,Lake View
 includes,13,Lake View
 including,12,Lake View
-just,74,Lake View
 king,15,Lake View
 kitchen,94,Lake View
 l,23,Lake View
@@ -1580,7 +1547,6 @@ restaurants,168,Lake View
 ride,15,Lake View
 right,55,Lake View
 rooftop,26,Lake View
-room,134,Lake View
 s,11,Lake View
 safe,13,Lake View
 second,13,Lake View
@@ -1647,7 +1613,6 @@ welcome,10,Lake View
 well,25,Lake View
 whole,11,Lake View
 wifi,26,Lake View
-will,56,Lake View
 windows,17,Lake View
 within,34,Lake View
 wood,13,Lake View
@@ -1662,7 +1627,6 @@ air,14,Lincoln Park
 also,21,Lincoln Park
 amazing,57,Lincoln Park
 amenities,47,Lincoln Park
-apartment,164,Lincoln Park
 apartments,12,Lincoln Park
 appliances,20,Lincoln Park
 apt,13,Lincoln Park
@@ -1683,7 +1647,6 @@ beach,78,Lincoln Park
 beaches,16,Lincoln Park
 beautiful,51,Lincoln Park
 bed,90,Lincoln Park
-bedroom,141,Lincoln Park
 bedrooms,13,Lincoln Park
 beds,17,Lincoln Park
 best,56,Lincoln Park
@@ -1784,7 +1747,6 @@ indoor,19,Lincoln Park
 internet,14,Lincoln Park
 jacuzzi,10,Lincoln Park
 john,12,Lincoln Park
-just,62,Lincoln Park
 kitchen,66,Lincoln Park
 lake,126,Lincoln Park
 lakefront,14,Lincoln Park
@@ -1864,7 +1826,6 @@ rise,16,Lincoln Park
 river,104,Lincoln Park
 roof,14,Lincoln Park
 rooftop,43,Lincoln Park
-room,91,Lincoln Park
 rush,19,Lincoln Park
 safe,10,Lincoln Park
 sauna,10,Lincoln Park
@@ -1923,13 +1884,11 @@ welcome,11,Lincoln Park
 well,21,Lincoln Park
 wells,12,Lincoln Park
 wifi,25,Lincoln Park
-will,49,Lincoln Park
 windows,36,Lincoln Park
 within,26,Lincoln Park
 zoo,15,Lincoln Park
 access,22,Edgewater
 andersonville,43,Edgewater
-apartment,68,Edgewater
 area,18,Edgewater
 available,13,Edgewater
 away,29,Edgewater
@@ -1941,7 +1900,6 @@ beach,44,Edgewater
 beaches,11,Edgewater
 beautiful,17,Edgewater
 bed,43,Edgewater
-bedroom,52,Edgewater
 block,25,Edgewater
 blocks,42,Edgewater
 building,22,Edgewater
@@ -1976,7 +1934,6 @@ full,23,Edgewater
 great,36,Edgewater
 heart,16,Edgewater
 home,19,Edgewater
-just,29,Edgewater
 kitchen,38,Edgewater
 lake,57,Edgewater
 large,18,Edgewater
@@ -2003,7 +1960,6 @@ red,40,Edgewater
 redline,14,Edgewater
 restaurants,54,Edgewater
 right,19,Edgewater
-room,79,Edgewater
 safe,10,Edgewater
 shared,11,Edgewater
 shopping,13,Edgewater
@@ -2031,4 +1987,3 @@ walk,42,Edgewater
 walking,16,Edgewater
 well,10,Edgewater
 wifi,10,Edgewater
-will,11,Edgewater

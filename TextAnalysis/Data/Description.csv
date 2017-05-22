@@ -27,7 +27,6 @@ answer,17,West Town
 anyone,12,West Town
 anything,52,West Town
 anywhere,26,West Town
-apartment,698,West Town
 apartments,16,West Town
 apple,17,West Town
 appliances,62,West Town
@@ -74,7 +73,6 @@ beautifully,20,West Town
 beauty,10,West Town
 bed,451,West Town
 bedding,12,West Town
-bedroom,611,West Town
 bedrooms,158,West Town
 beds,80,West Town
 beer,11,West Town
@@ -414,7 +412,6 @@ issues,10,West Town
 italian,11,West Town
 items,11,West Town
 jacuzzi,36,West Town
-just,238,West Town
 keep,23,West Town
 key,15,West Town
 keys,17,West Town
@@ -659,7 +656,6 @@ river,101,West Town
 roku,10,West Town
 roof,37,West Town
 rooftop,73,West Town
-room,805,West Town
 rooms,67,West Town
 row,10,West Town
 s,19,West Town
@@ -880,7 +876,6 @@ whole,42,West Town
 wicker,531,West Town
 wide,15,West Town
 wifi,159,West Town
-will,483,West Town
 window,36,West Town
 windows,68,West Town
 wine,17,West Town
@@ -915,7 +910,6 @@ amenities,26,Uptown
 andersonville,69,Uptown
 answer,12,Uptown
 anything,21,Uptown
-apartment,193,Uptown
 appliances,24,Uptown
 apt,16,Uptown
 aragon,33,Uptown
@@ -940,7 +934,6 @@ beach,71,Uptown
 beaches,10,Uptown
 beautiful,50,Uptown
 bed,140,Uptown
-bedroom,171,Uptown
 bedrooms,44,Uptown
 beds,24,Uptown
 best,32,Uptown
@@ -1078,7 +1071,6 @@ included,13,Uptown
 includes,15,Uptown
 including,34,Uptown
 internet,26,Uptown
-just,80,Uptown
 keep,12,Uptown
 keys,13,Uptown
 kitchen,153,Uptown
@@ -1191,7 +1183,6 @@ ride,20,Uptown
 right,39,Uptown
 riviera,23,Uptown
 rooftop,12,Uptown
-room,266,Uptown
 runs,10,Uptown
 safe,25,Uptown
 screen,11,Uptown
@@ -1282,7 +1273,6 @@ welcome,26,Uptown
 well,57,Uptown
 whole,17,Uptown
 wifi,59,Uptown
-will,182,Uptown
 wilson,11,Uptown
 window,14,Uptown
 windows,14,Uptown
@@ -1309,7 +1299,6 @@ amazing,34,Near West Side
 amenities,47,Near West Side
 anything,15,Near West Side
 anytime,10,Near West Side
-apartment,199,Near West Side
 appliances,25,Near West Side
 area,97,Near West Side
 areas,20,Near West Side
@@ -1328,7 +1317,6 @@ bath,73,Near West Side
 bathroom,108,Near West Side
 beautiful,49,Near West Side
 bed,166,Near West Side
-bedroom,216,Near West Side
 bedrooms,21,Near West Side
 beds,20,Near West Side
 best,68,Near West Side
@@ -1475,7 +1463,6 @@ inside,12,Near West Side
 internet,15,Near West Side
 italian,11,Near West Side
 italy,40,Near West Side
-just,93,Near West Side
 key,12,Near West Side
 keys,14,Near West Side
 king,15,Near West Side
@@ -1588,7 +1575,6 @@ ride,23,Near West Side
 right,57,Near West Side
 river,51,Near West Side
 rooftop,23,Near West Side
-room,197,Near West Side
 row,35,Near West Side
 rush,13,Near West Side
 safe,32,Near West Side
@@ -1690,7 +1676,6 @@ west,155,Near West Side
 western,10,Near West Side
 whole,16,Near West Side
 wifi,58,Near West Side
-will,184,Near West Side
 willis,16,Near West Side
 windows,33,Near West Side
 within,43,Near West Side
@@ -1720,7 +1705,6 @@ amenity,13,Near North Side
 anything,34,Near North Side
 anytime,11,Near North Side
 anywhere,22,Near North Side
-apartment,506,Near North Side
 apartments,41,Near North Side
 apple,13,Near North Side
 appliances,83,Near North Side
@@ -1757,7 +1741,6 @@ beat,10,Near North Side
 beautiful,127,Near North Side
 beautifully,32,Near North Side
 bed,331,Near North Side
-bedroom,375,Near North Side
 bedrooms,46,Near North Side
 beds,59,Near North Side
 best,170,Near North Side
@@ -2033,7 +2016,6 @@ iron,20,Near North Side
 island,12,Near North Side
 jacuzzi,17,Near North Side
 john,27,Near North Side
-just,199,Near North Side
 key,32,Near North Side
 keys,26,Near North Side
 king,47,Near North Side
@@ -2241,7 +2223,6 @@ rise,29,Near North Side
 river,216,Near North Side
 roof,40,Near North Side
 rooftop,122,Near North Side
-room,412,Near North Side
 roommate,14,Near North Side
 rooms,22,Near North Side
 routes,13,Near North Side
@@ -2423,7 +2404,6 @@ wells,28,Near North Side
 west,29,Near North Side
 whole,34,Near North Side
 wifi,127,Near North Side
-will,382,Near North Side
 window,13,Near North Side
 windows,91,Near North Side
 wine,15,Near North Side
@@ -2451,7 +2431,6 @@ amazing,54,Loop
 amenities,82,Loop
 amenity,10,Loop
 anything,12,Loop
-apartment,200,Loop
 apartments,11,Loop
 appliances,27,Loop
 apt,20,Loop
@@ -2477,7 +2456,6 @@ bean,11,Loop
 beautiful,51,Loop
 beautifully,11,Loop
 bed,115,Loop
-bedroom,155,Loop
 beds,19,Loop
 best,54,Loop
 block,39,Loop
@@ -2592,7 +2570,6 @@ indoor,34,Loop
 institute,25,Loop
 internet,31,Loop
 island,17,Loop
-just,72,Loop
 king,17,Loop
 kingsized,10,Loop
 kitchen,112,Loop
@@ -2701,7 +2678,6 @@ right,54,Loop
 rise,27,Loop
 river,79,Loop
 rooftop,31,Loop
-room,171,Loop
 row,29,Loop
 sauna,21,Loop
 screen,14,Loop
@@ -2788,7 +2764,6 @@ washerdryer,22,Loop
 welcome,11,Loop
 well,30,Loop
 wifi,55,Loop
-will,152,Loop
 willis,12,Loop
 windows,44,Loop
 within,76,Loop
@@ -2818,7 +2793,6 @@ ample,10,Logan Square
 another,19,Logan Square
 answer,12,Logan Square
 anything,24,Logan Square
-apartment,466,Logan Square
 apple,10,Logan Square
 appliances,27,Logan Square
 apt,40,Logan Square
@@ -2849,7 +2823,6 @@ bathrooms,18,Logan Square
 bathtub,10,Logan Square
 beautiful,92,Logan Square
 bed,253,Logan Square
-bedroom,386,Logan Square
 bedrooms,81,Logan Square
 beds,44,Logan Square
 best,101,Logan Square
@@ -3072,7 +3045,6 @@ including,42,Logan Square
 internet,40,Logan Square
 items,14,Logan Square
 jacuzzi,12,Logan Square
-just,148,Logan Square
 keep,22,Logan Square
 keys,27,Logan Square
 king,18,Logan Square
@@ -3241,7 +3213,6 @@ revolution,17,Logan Square
 ride,30,Logan Square
 right,82,Logan Square
 rooftop,22,Logan Square
-room,480,Logan Square
 rooms,33,Logan Square
 runs,10,Logan Square
 safe,22,Logan Square
@@ -3383,7 +3354,6 @@ western,50,Logan Square
 whole,16,Logan Square
 wicker,87,Logan Square
 wifi,76,Logan Square
-will,328,Logan Square
 window,22,Logan Square
 windows,44,Logan Square
 wine,14,Logan Square
@@ -3425,7 +3395,6 @@ answer,26,Lake View
 anything,46,Lake View
 anytime,10,Lake View
 anywhere,16,Lake View
-apartment,631,Lake View
 apartments,19,Lake View
 appliances,54,Lake View
 appointed,12,Lake View
@@ -3462,7 +3431,6 @@ beautiful,120,Lake View
 beautifully,28,Lake View
 bed,356,Lake View
 bedding,12,Lake View
-bedroom,516,Lake View
 bedrooms,68,Lake View
 beds,57,Lake View
 belmont,128,Lake View
@@ -3745,7 +3713,6 @@ island,10,Lake View
 items,10,Lake View
 jacuzzi,19,Lake View
 joes,14,Lake View
-just,204,Lake View
 keep,13,Lake View
 keurig,10,Lake View
 key,37,Lake View
@@ -3944,7 +3911,6 @@ ride,35,Lake View
 right,136,Lake View
 roof,15,Lake View
 rooftop,72,Lake View
-room,542,Lake View
 roommates,12,Lake View
 rooms,30,Lake View
 roscoe,17,Lake View
@@ -4132,7 +4098,6 @@ wellington,12,Lake View
 west,25,Lake View
 whole,58,Lake View
 wifi,112,Lake View
-will,476,Lake View
 window,20,Lake View
 windows,59,Lake View
 wine,15,Lake View
@@ -4176,7 +4141,6 @@ amenity,13,Lincoln Park
 anything,34,Lincoln Park
 anytime,11,Lincoln Park
 anywhere,22,Lincoln Park
-apartment,506,Lincoln Park
 apartments,41,Lincoln Park
 apple,13,Lincoln Park
 appliances,83,Lincoln Park
@@ -4213,7 +4177,6 @@ beat,10,Lincoln Park
 beautiful,127,Lincoln Park
 beautifully,32,Lincoln Park
 bed,331,Lincoln Park
-bedroom,375,Lincoln Park
 bedrooms,46,Lincoln Park
 beds,59,Lincoln Park
 best,170,Lincoln Park
@@ -4489,7 +4452,6 @@ iron,20,Lincoln Park
 island,12,Lincoln Park
 jacuzzi,17,Lincoln Park
 john,27,Lincoln Park
-just,199,Lincoln Park
 key,32,Lincoln Park
 keys,26,Lincoln Park
 king,47,Lincoln Park
@@ -4697,7 +4659,6 @@ rise,29,Lincoln Park
 river,216,Lincoln Park
 roof,40,Lincoln Park
 rooftop,122,Lincoln Park
-room,412,Lincoln Park
 roommate,14,Lincoln Park
 rooms,22,Lincoln Park
 routes,13,Lincoln Park
@@ -4879,7 +4840,6 @@ wells,28,Lincoln Park
 west,29,Lincoln Park
 whole,34,Lincoln Park
 wifi,127,Lincoln Park
-will,382,Lincoln Park
 window,13,Lincoln Park
 windows,91,Lincoln Park
 wine,15,Lincoln Park
@@ -4904,7 +4864,6 @@ amenities,10,Edgewater
 andersonville,91,Edgewater
 antique,12,Edgewater
 anything,13,Edgewater
-apartment,163,Edgewater
 appliances,11,Edgewater
 area,51,Edgewater
 areas,12,Edgewater
@@ -4922,7 +4881,6 @@ beach,80,Edgewater
 beaches,20,Edgewater
 beautiful,35,Edgewater
 bed,109,Edgewater
-bedroom,145,Edgewater
 bedrooms,10,Edgewater
 best,24,Edgewater
 big,19,Edgewater
@@ -5026,7 +4984,6 @@ huge,14,Edgewater
 included,12,Edgewater
 includes,14,Edgewater
 internet,14,Edgewater
-just,69,Edgewater
 kitchen,130,Edgewater
 lake,93,Edgewater
 lakefront,14,Edgewater
@@ -5106,7 +5063,6 @@ restaurants,104,Edgewater
 ride,15,Edgewater
 right,38,Edgewater
 roof,10,Edgewater
-room,238,Edgewater
 rooms,13,Edgewater
 safe,24,Edgewater
 screen,10,Edgewater
@@ -5173,7 +5129,6 @@ welcome,16,Edgewater
 well,43,Edgewater
 whole,15,Edgewater
 wifi,41,Edgewater
-will,142,Edgewater
 windows,21,Edgewater
 wireless,12,Edgewater
 within,22,Edgewater
