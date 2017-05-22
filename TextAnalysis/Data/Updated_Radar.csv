@@ -1,154 +1,136 @@
-Neighborhood,Metric,Value
-Edgewater,length_of_listing_name,0.464696482
-Edgewater,length_of_summary,1
-Edgewater,length_of_description,0
-Edgewater,name_tf_idf_sum,0.404621494
-Edgewater,summary_tf_idf_sum,1
-Edgewater,description_tf_idf_sum,0
-Edgewater,name_ARI,0.338413585
-Edgewater,summary_ARI,0.133090248
-Edgewater,description_ARI,0.252435197
-Edgewater,name_polarity,0
-Edgewater,summary_polarity,0.581535802
-Edgewater,description_polarity,1
-Edgewater,name_subjectivity,0
-Edgewater,summary_subjectivity,0.921720798
-Edgewater,description_subjectivity,1
-Edgewater,price,0
-Edgewater,review_scores_rating,0.579506435
-Lake View,length_of_listing_name,0.743784904
-Lake View,length_of_summary,0.244094943
-Lake View,length_of_description,0.276724659
-Lake View,name_tf_idf_sum,0.912294927
-Lake View,summary_tf_idf_sum,0.479228718
-Lake View,description_tf_idf_sum,0.304389122
-Lake View,name_ARI,0.763349101
-Lake View,summary_ARI,0
-Lake View,description_ARI,0.233914499
-Lake View,name_polarity,0.559163164
-Lake View,summary_polarity,0.264284498
-Lake View,description_polarity,0.197909827
-Lake View,name_subjectivity,0.815586659
-Lake View,summary_subjectivity,0.276377529
-Lake View,description_subjectivity,0
-Lake View,price,0.431941518
-Lake View,review_scores_rating,1
-Lincoln Park,length_of_listing_name,0.828350853
-Lincoln Park,length_of_summary,0.451186248
-Lincoln Park,length_of_description,0.142172171
-Lincoln Park,name_tf_idf_sum,0.714613949
-Lincoln Park,summary_tf_idf_sum,0.38640646
-Lincoln Park,description_tf_idf_sum,0.14299
-Lincoln Park,name_ARI,0.76317166
-Lincoln Park,summary_ARI,0.381805591
-Lincoln Park,description_ARI,0.187864439
-Lincoln Park,name_polarity,0.70854273
-Lincoln Park,summary_polarity,0.326400805
-Lincoln Park,description_polarity,0.521535543
-Lincoln Park,name_subjectivity,0.894674636
-Lincoln Park,summary_subjectivity,0.212344891
-Lincoln Park,description_subjectivity,0.664502915
-Lincoln Park,price,0.650074677
-Lincoln Park,review_scores_rating,0
-Logan Square,length_of_listing_name,0.915155354
-Logan Square,length_of_summary,0.359571711
-Logan Square,length_of_description,1
-Logan Square,name_tf_idf_sum,1
-Logan Square,summary_tf_idf_sum,0.337279203
-Logan Square,description_tf_idf_sum,1
-Logan Square,name_ARI,0.409773832
-Logan Square,summary_ARI,1
-Logan Square,description_ARI,0.455950654
-Logan Square,name_polarity,0.467151124
-Logan Square,summary_polarity,0.120289441
-Logan Square,description_polarity,0
-Logan Square,name_subjectivity,0.595981117
-Logan Square,summary_subjectivity,0.694102694
-Logan Square,description_subjectivity,0.312611882
-Logan Square,price,0.129334756
-Logan Square,review_scores_rating,0.988474694
-Loop,length_of_listing_name,0.603977644
-Loop,length_of_summary,0.065653878
-Loop,length_of_description,0.168491584
-Loop,name_tf_idf_sum,0.389048968
-Loop,summary_tf_idf_sum,0.049880925
-Loop,description_tf_idf_sum,0.152092744
-Loop,name_ARI,0.824046079
-Loop,summary_ARI,0.526251389
-Loop,description_ARI,0
-Loop,name_polarity,1
-Loop,summary_polarity,1
-Loop,description_polarity,0.568984834
-Loop,name_subjectivity,0.940854845
-Loop,summary_subjectivity,1
-Loop,description_subjectivity,0.500557308
-Loop,price,1
-Loop,review_scores_rating,0.24274972
-Near North Side,length_of_listing_name,1
-Near North Side,length_of_summary,0.287255622
-Near North Side,length_of_description,0.417802531
-Near North Side,name_tf_idf_sum,0.79259512
-Near North Side,summary_tf_idf_sum,0.450114019
-Near North Side,description_tf_idf_sum,0.438139386
-Near North Side,name_ARI,1
-Near North Side,summary_ARI,0.791912513
-Near North Side,description_ARI,0.6084907
-Near North Side,name_polarity,0.587388983
-Near North Side,summary_polarity,0.55377924
-Near North Side,description_polarity,0.506648789
-Near North Side,name_subjectivity,0.655919027
-Near North Side,summary_subjectivity,0.087692869
-Near North Side,description_subjectivity,0.080098148
-Near North Side,price,0.805860884
-Near North Side,review_scores_rating,0.222203385
-Near West Side,length_of_listing_name,0
-Near West Side,length_of_summary,0
-Near West Side,length_of_description,0.29722919
-Near West Side,name_tf_idf_sum,0
-Near West Side,summary_tf_idf_sum,0
-Near West Side,description_tf_idf_sum,0.258407187
-Near West Side,name_ARI,0.766543579
-Near West Side,summary_ARI,0.710928747
-Near West Side,description_ARI,0.330447002
-Near West Side,name_polarity,0.730315346
-Near West Side,summary_polarity,0.405998317
-Near West Side,description_polarity,0.392681767
-Near West Side,name_subjectivity,0.953008057
-Near West Side,summary_subjectivity,0.416212867
-Near West Side,description_subjectivity,0.551824683
-Near West Side,price,0.479434574
-Near West Side,review_scores_rating,0.358090557
-Uptown,length_of_listing_name,0.765144314
-Uptown,length_of_summary,0.359746393
-Uptown,length_of_description,0.437284346
-Uptown,name_tf_idf_sum,0.575593128
-Uptown,summary_tf_idf_sum,0.417578344
-Uptown,description_tf_idf_sum,0.438327002
-Uptown,name_ARI,0
-Uptown,summary_ARI,0.354748652
-Uptown,description_ARI,0.313338579
-Uptown,name_polarity,0.323569256
-Uptown,summary_polarity,0
-Uptown,description_polarity,0.430973067
-Uptown,name_subjectivity,1
-Uptown,summary_subjectivity,0
-Uptown,description_subjectivity,0.514488211
-Uptown,price,0.308042915
-Uptown,review_scores_rating,0.684391092
-West Town,length_of_listing_name,0.840848267
-West Town,length_of_summary,0.275215456
-West Town,length_of_description,0.747755682
-West Town,name_tf_idf_sum,0.55517241
-West Town,summary_tf_idf_sum,0.387979861
-West Town,description_tf_idf_sum,0.716638866
-West Town,name_ARI,0.606564723
-West Town,summary_ARI,0.830915008
-West Town,description_ARI,1
-West Town,name_polarity,0.892514887
-West Town,summary_polarity,0.477707447
-West Town,description_polarity,0.281760994
-West Town,name_subjectivity,0.888944811
-West Town,summary_subjectivity,0.643121351
-West Town,description_subjectivity,0.30188633
-West Town,price,0.461218757
-West Town,review_scores_rating,0.893177748
+Neighborhood,Metric,Value,price,review_scores_rating,reviews_per_month
+Edgewater,length_of_listing_name,0.464696482,0,0.579506435332799,0.776902469427761
+Edgewater,length_of_summary,1,0,0.579506435332799,0.776902469427761
+Edgewater,length_of_description,0,0,0.579506435332799,0.776902469427761
+Edgewater,name_tf_idf_sum,0.404621494,0,0.579506435332799,0.776902469427761
+Edgewater,summary_tf_idf_sum,1,0,0.579506435332799,0.776902469427761
+Edgewater,description_tf_idf_sum,0,0,0.579506435332799,0.776902469427761
+Edgewater,name_ARI,0.338413585,0,0.579506435332799,0.776902469427761
+Edgewater,summary_ARI,0.133090248,0,0.579506435332799,0.776902469427761
+Edgewater,description_ARI,0.252435197,0,0.579506435332799,0.776902469427761
+Edgewater,name_polarity,0,0,0.579506435332799,0.776902469427761
+Edgewater,summary_polarity,0.581535802,0,0.579506435332799,0.776902469427761
+Edgewater,description_polarity,1,0,0.579506435332799,0.776902469427761
+Edgewater,name_subjectivity,0,0,0.579506435332799,0.776902469427761
+Edgewater,summary_subjectivity,0.921720798,0,0.579506435332799,0.776902469427761
+Edgewater,description_subjectivity,1,0,0.579506435332799,0.776902469427761
+Lake View,length_of_listing_name,0.743784904,0.431941518225339,1,0.524486984201339
+Lake View,length_of_summary,0.244094943,0.431941518225339,1,0.524486984201339
+Lake View,length_of_description,0.276724659,0.431941518225339,1,0.524486984201339
+Lake View,name_tf_idf_sum,0.912294927,0.431941518225339,1,0.524486984201339
+Lake View,summary_tf_idf_sum,0.479228718,0.431941518225339,1,0.524486984201339
+Lake View,description_tf_idf_sum,0.304389122,0.431941518225339,1,0.524486984201339
+Lake View,name_ARI,0.763349101,0.431941518225339,1,0.524486984201339
+Lake View,summary_ARI,0,0.431941518225339,1,0.524486984201339
+Lake View,description_ARI,0.233914499,0.431941518225339,1,0.524486984201339
+Lake View,name_polarity,0.559163164,0.431941518225339,1,0.524486984201339
+Lake View,summary_polarity,0.264284498,0.431941518225339,1,0.524486984201339
+Lake View,description_polarity,0.197909827,0.431941518225339,1,0.524486984201339
+Lake View,name_subjectivity,0.815586659,0.431941518225339,1,0.524486984201339
+Lake View,summary_subjectivity,0.276377529,0.431941518225339,1,0.524486984201339
+Lake View,description_subjectivity,0,0.431941518225339,1,0.524486984201339
+Lincoln Park,length_of_listing_name,0.828350853,0.650074676925015,0,0.460824226765494
+Lincoln Park,length_of_summary,0.451186248,0.650074676925015,0,0.460824226765494
+Lincoln Park,length_of_description,0.142172171,0.650074676925015,0,0.460824226765494
+Lincoln Park,name_tf_idf_sum,0.714613949,0.650074676925015,0,0.460824226765494
+Lincoln Park,summary_tf_idf_sum,0.38640646,0.650074676925015,0,0.460824226765494
+Lincoln Park,description_tf_idf_sum,0.14299,0.650074676925015,0,0.460824226765494
+Lincoln Park,name_ARI,0.76317166,0.650074676925015,0,0.460824226765494
+Lincoln Park,summary_ARI,0.381805591,0.650074676925015,0,0.460824226765494
+Lincoln Park,description_ARI,0.187864439,0.650074676925015,0,0.460824226765494
+Lincoln Park,name_polarity,0.70854273,0.650074676925015,0,0.460824226765494
+Lincoln Park,summary_polarity,0.326400805,0.650074676925015,0,0.460824226765494
+Lincoln Park,description_polarity,0.521535543,0.650074676925015,0,0.460824226765494
+Lincoln Park,name_subjectivity,0.894674636,0.650074676925015,0,0.460824226765494
+Lincoln Park,summary_subjectivity,0.212344891,0.650074676925015,0,0.460824226765494
+Lincoln Park,description_subjectivity,0.664502915,0.650074676925015,0,0.460824226765494
+Logan Square,length_of_listing_name,0.915155354,0.129334755927431,0.988474694121448,1
+Logan Square,length_of_summary,0.359571711,0.129334755927431,0.988474694121448,1
+Logan Square,length_of_description,1,0.129334755927431,0.988474694121448,1
+Logan Square,name_tf_idf_sum,1,0.129334755927431,0.988474694121448,1
+Logan Square,summary_tf_idf_sum,0.337279203,0.129334755927431,0.988474694121448,1
+Logan Square,description_tf_idf_sum,1,0.129334755927431,0.988474694121448,1
+Logan Square,name_ARI,0.409773832,0.129334755927431,0.988474694121448,1
+Logan Square,summary_ARI,1,0.129334755927431,0.988474694121448,1
+Logan Square,description_ARI,0.455950654,0.129334755927431,0.988474694121448,1
+Logan Square,name_polarity,0.467151124,0.129334755927431,0.988474694121448,1
+Logan Square,summary_polarity,0.120289441,0.129334755927431,0.988474694121448,1
+Logan Square,description_polarity,0,0.129334755927431,0.988474694121448,1
+Logan Square,name_subjectivity,0.595981117,0.129334755927431,0.988474694121448,1
+Logan Square,summary_subjectivity,0.694102694,0.129334755927431,0.988474694121448,1
+Logan Square,description_subjectivity,0.312611882,0.129334755927431,0.988474694121448,1
+Loop,length_of_listing_name,0.603977644,1,0.242749720139084,0
+Loop,length_of_summary,0.065653878,1,0.242749720139084,0
+Loop,length_of_description,0.168491584,1,0.242749720139084,0
+Loop,name_tf_idf_sum,0.389048968,1,0.242749720139084,0
+Loop,summary_tf_idf_sum,0.049880925,1,0.242749720139084,0
+Loop,description_tf_idf_sum,0.152092744,1,0.242749720139084,0
+Loop,name_ARI,0.824046079,1,0.242749720139084,0
+Loop,summary_ARI,0.526251389,1,0.242749720139084,0
+Loop,description_ARI,0,1,0.242749720139084,0
+Loop,name_polarity,1,1,0.242749720139084,0
+Loop,summary_polarity,1,1,0.242749720139084,0
+Loop,description_polarity,0.568984834,1,0.242749720139084,0
+Loop,name_subjectivity,0.940854845,1,0.242749720139084,0
+Loop,summary_subjectivity,1,1,0.242749720139084,0
+Loop,description_subjectivity,0.500557308,1,0.242749720139084,0
+Near North Side,length_of_listing_name,1,0.805860883610122,0.222203385016702,0.45409177605771
+Near North Side,length_of_summary,0.287255622,0.805860883610122,0.222203385016702,0.45409177605771
+Near North Side,length_of_description,0.417802531,0.805860883610122,0.222203385016702,0.45409177605771
+Near North Side,name_tf_idf_sum,0.79259512,0.805860883610122,0.222203385016702,0.45409177605771
+Near North Side,summary_tf_idf_sum,0.450114019,0.805860883610122,0.222203385016702,0.45409177605771
+Near North Side,description_tf_idf_sum,0.438139386,0.805860883610122,0.222203385016702,0.45409177605771
+Near North Side,name_ARI,1,0.805860883610122,0.222203385016702,0.45409177605771
+Near North Side,summary_ARI,0.791912513,0.805860883610122,0.222203385016702,0.45409177605771
+Near North Side,description_ARI,0.6084907,0.805860883610122,0.222203385016702,0.45409177605771
+Near North Side,name_polarity,0.587388983,0.805860883610122,0.222203385016702,0.45409177605771
+Near North Side,summary_polarity,0.55377924,0.805860883610122,0.222203385016702,0.45409177605771
+Near North Side,description_polarity,0.506648789,0.805860883610122,0.222203385016702,0.45409177605771
+Near North Side,name_subjectivity,0.655919027,0.805860883610122,0.222203385016702,0.45409177605771
+Near North Side,summary_subjectivity,0.087692869,0.805860883610122,0.222203385016702,0.45409177605771
+Near North Side,description_subjectivity,0.080098148,0.805860883610122,0.222203385016702,0.45409177605771
+Near West Side,length_of_listing_name,0,0.479434574337057,0.358090557119101,0.62197114141819
+Near West Side,length_of_summary,0,0.479434574337057,0.358090557119101,0.62197114141819
+Near West Side,length_of_description,0.29722919,0.479434574337057,0.358090557119101,0.62197114141819
+Near West Side,name_tf_idf_sum,0,0.479434574337057,0.358090557119101,0.62197114141819
+Near West Side,summary_tf_idf_sum,0,0.479434574337057,0.358090557119101,0.62197114141819
+Near West Side,description_tf_idf_sum,0.258407187,0.479434574337057,0.358090557119101,0.62197114141819
+Near West Side,name_ARI,0.766543579,0.479434574337057,0.358090557119101,0.62197114141819
+Near West Side,summary_ARI,0.710928747,0.479434574337057,0.358090557119101,0.62197114141819
+Near West Side,description_ARI,0.330447002,0.479434574337057,0.358090557119101,0.62197114141819
+Near West Side,name_polarity,0.730315346,0.479434574337057,0.358090557119101,0.62197114141819
+Near West Side,summary_polarity,0.405998317,0.479434574337057,0.358090557119101,0.62197114141819
+Near West Side,description_polarity,0.392681767,0.479434574337057,0.358090557119101,0.62197114141819
+Near West Side,name_subjectivity,0.953008057,0.479434574337057,0.358090557119101,0.62197114141819
+Near West Side,summary_subjectivity,0.416212867,0.479434574337057,0.358090557119101,0.62197114141819
+Near West Side,description_subjectivity,0.551824683,0.479434574337057,0.358090557119101,0.62197114141819
+Uptown,length_of_listing_name,0.765144314,0.308042914594833,0.684391092229316,0.392777790652336
+Uptown,length_of_summary,0.359746393,0.308042914594833,0.684391092229316,0.392777790652336
+Uptown,length_of_description,0.437284346,0.308042914594833,0.684391092229316,0.392777790652336
+Uptown,name_tf_idf_sum,0.575593128,0.308042914594833,0.684391092229316,0.392777790652336
+Uptown,summary_tf_idf_sum,0.417578344,0.308042914594833,0.684391092229316,0.392777790652336
+Uptown,description_tf_idf_sum,0.438327002,0.308042914594833,0.684391092229316,0.392777790652336
+Uptown,name_ARI,0,0.308042914594833,0.684391092229316,0.392777790652336
+Uptown,summary_ARI,0.354748652,0.308042914594833,0.684391092229316,0.392777790652336
+Uptown,description_ARI,0.313338579,0.308042914594833,0.684391092229316,0.392777790652336
+Uptown,name_polarity,0.323569256,0.308042914594833,0.684391092229316,0.392777790652336
+Uptown,summary_polarity,0,0.308042914594833,0.684391092229316,0.392777790652336
+Uptown,description_polarity,0.430973067,0.308042914594833,0.684391092229316,0.392777790652336
+Uptown,name_subjectivity,1,0.308042914594833,0.684391092229316,0.392777790652336
+Uptown,summary_subjectivity,0,0.308042914594833,0.684391092229316,0.392777790652336
+Uptown,description_subjectivity,0.514488211,0.308042914594833,0.684391092229316,0.392777790652336
+West Town,length_of_listing_name,0.840848267,0.46121875673635,0.893177748364377,0.769656066013436
+West Town,length_of_summary,0.275215456,0.46121875673635,0.893177748364377,0.769656066013436
+West Town,length_of_description,0.747755682,0.46121875673635,0.893177748364377,0.769656066013436
+West Town,name_tf_idf_sum,0.55517241,0.46121875673635,0.893177748364377,0.769656066013436
+West Town,summary_tf_idf_sum,0.387979861,0.46121875673635,0.893177748364377,0.769656066013436
+West Town,description_tf_idf_sum,0.716638866,0.46121875673635,0.893177748364377,0.769656066013436
+West Town,name_ARI,0.606564723,0.46121875673635,0.893177748364377,0.769656066013436
+West Town,summary_ARI,0.830915008,0.46121875673635,0.893177748364377,0.769656066013436
+West Town,description_ARI,1,0.46121875673635,0.893177748364377,0.769656066013436
+West Town,name_polarity,0.892514887,0.46121875673635,0.893177748364377,0.769656066013436
+West Town,summary_polarity,0.477707447,0.46121875673635,0.893177748364377,0.769656066013436
+West Town,description_polarity,0.281760994,0.46121875673635,0.893177748364377,0.769656066013436
+West Town,name_subjectivity,0.888944811,0.46121875673635,0.893177748364377,0.769656066013436
+West Town,summary_subjectivity,0.643121351,0.46121875673635,0.893177748364377,0.769656066013436
+West Town,description_subjectivity,0.30188633,0.46121875673635,0.893177748364377,0.769656066013436
