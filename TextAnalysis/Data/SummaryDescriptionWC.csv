@@ -97,15 +97,6 @@ along,Logan Square,27
 along,Near North Side,17
 along,Uptown,14
 along,West Town,31
-also,Edgewater,62
-also,Lake View,220
-also,Lincoln Park,160
-also,Logan Square,187
-also,Loop,56
-also,Near North Side,160
-also,Near West Side,81
-also,Uptown,83
-also,West Town,278
 although,Logan Square,12
 always,Edgewater,18
 always,Lake View,55
@@ -376,15 +367,6 @@ bath,Near North Side,121
 bath,Near West Side,102
 bath,Uptown,58
 bath,West Town,255
-bathroom,Edgewater,113
-bathroom,Lake View,347
-bathroom,Lincoln Park,234
-bathroom,Logan Square,256
-bathroom,Loop,132
-bathroom,Near North Side,234
-bathroom,Near West Side,136
-bathroom,Uptown,123
-bathroom,West Town,478
 bathrooms,Lake View,36
 bathrooms,Lincoln Park,27
 bathrooms,Logan Square,18
@@ -427,15 +409,6 @@ beautifully,Loop,11
 beautifully,Near North Side,32
 beautifully,West Town,31
 beauty,West Town,10
-bed,Edgewater,152
-bed,Lake View,479
-bed,Lincoln Park,421
-bed,Logan Square,327
-bed,Loop,205
-bed,Near North Side,421
-bed,Near West Side,220
-bed,Uptown,184
-bed,West Town,626
 bedding,Lake View,12
 bedding,West Town,12
 bedrooms,Edgewater,10
@@ -689,15 +662,6 @@ call,Near West Side,15
 call,West Town,29
 campus,Loop,19
 campus,Near West Side,11
-can,Edgewater,106
-can,Lake View,281
-can,Lincoln Park,240
-can,Logan Square,196
-can,Loop,105
-can,Near North Side,240
-can,Near West Side,107
-can,Uptown,128
-can,West Town,358
 car,Lake View,30
 car,Lincoln Park,23
 car,Logan Square,22
@@ -790,15 +754,6 @@ check,Near North Side,43
 check,Near West Side,23
 check,Uptown,14
 check,West Town,55
-chicago,Edgewater,152
-chicago,Lake View,462
-chicago,Lincoln Park,772
-chicago,Logan Square,350
-chicago,Loop,501
-chicago,Near North Side,772
-chicago,Near West Side,285
-chicago,Uptown,169
-chicago,West Town,738
 chicagos,Edgewater,42
 chicagos,Lake View,121
 chicagos,Lincoln Park,210
@@ -2600,15 +2555,6 @@ local,Near North Side,20
 local,Near West Side,12
 local,Uptown,32
 local,West Town,63
-located,Edgewater,126
-located,Lake View,384
-located,Lincoln Park,441
-located,Logan Square,295
-located,Loop,261
-located,Near North Side,441
-located,Near West Side,237
-located,Uptown,139
-located,West Town,487
 location,Edgewater,37
 location,Lake View,306
 location,Lincoln Park,431
@@ -3042,15 +2988,6 @@ needed,West Town,43
 needs,Lincoln Park,12
 needs,Near North Side,12
 needs,West Town,20
-neighborhood,Edgewater,119
-neighborhood,Lake View,384
-neighborhood,Lincoln Park,296
-neighborhood,Logan Square,342
-neighborhood,Loop,120
-neighborhood,Near North Side,296
-neighborhood,Near West Side,162
-neighborhood,Uptown,162
-neighborhood,West Town,574
 neighborhoods,Edgewater,20
 neighborhoods,Lake View,85
 neighborhoods,Lincoln Park,60
@@ -3206,15 +3143,6 @@ old,Near West Side,12
 old,Uptown,12
 old,West Town,76
 older,West Town,10
-one,Edgewater,153
-one,Lake View,476
-one,Lincoln Park,392
-one,Logan Square,353
-one,Loop,182
-one,Near North Side,392
-one,Near West Side,173
-one,Uptown,156
-one,West Town,555
 open,Edgewater,29
 open,Lake View,97
 open,Lincoln Park,72
@@ -4748,15 +4676,6 @@ twin,Logan Square,52
 twin,Near North Side,22
 twin,Near West Side,13
 twin,West Town,60
-two,Edgewater,85
-two,Lake View,334
-two,Lincoln Park,198
-two,Logan Square,320
-two,Loop,91
-two,Near North Side,198
-two,Near West Side,131
-two,Uptown,142
-two,West Town,466
 uber,Lincoln Park,15
 uber,Logan Square,10
 uber,Near North Side,15
