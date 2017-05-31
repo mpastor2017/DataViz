@@ -1,0 +1,99 @@
+html,
+body,
+.view {
+    height: 100%;
+}
+.view {
+    background: linear-gradient( rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25) ), url("/static/img/background.png")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+#mainDiv{
+    background:rgba(128, 128, 128, 0.5);
+    padding:20px;
+}
+#mainDiv:after {
+    content: " ";
+    display: block;
+    height: 0;
+    clear: both;
+    overflow: hidden;
+    visibility: hidden;
+}
+.form-horizontal2{
+    background-color:white;
+    display: inline-block;
+    width: auto;
+    margin: 0 auto;
+
+}
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 5px;
+  width: auto;
+}
+.navbarMain{
+    background-color: transparent;
+}
+.form .field-list .title {
+ color: rgba(255,255,255,0.9);
+}
+
+.page2{
+    background:rgba(128, 128, 128, 0.5);
+    padding:20px;
+}
+
+svg{
+    display: block;
+    margin: auto;
+}
+.layer {
+    background-color: rgba(255,255,255, 0.7);
+
+}
+#perfHeader{
+    text-align: center;
+}
+@brand-primary: darken(#7ab55c, 6.5%);
+@link-color:       @brand-primary;
+@hover:   darken(@link-color, 15%);
+@link-hover-color: darken(@link-color, 15%);
+
+.bs-callout {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #BEBEBE;
+    border-left-width: 5px;
+    border-right-width:0px;
+    border-bottom-width:0px;
+    border-top-width:0px;
+    border-radius: 3px;
+}
+
+.bs-callout h4 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.bs-callout p:last-child {
+    margin-bottom: 0;
+}
+.bs-callout code {
+    border-radius: 3px;
+}
+.bs-callout+.bs-callout {
+    margin-top: -5px;
+}
+.bs-callout-default {
+    border-left-color: #BEBEBE;
+}
+.bs-callout-default h4 {
+    color: #A9A9A9;
+}
